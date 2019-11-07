@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Distance Converter</string>
+    <string name="Miles" translatable="false">Miles</string>
+    <string name="Inches" translatable="false">Inches</string>
+    <string name="Feet" translatable="false">Feet</string>
+    <string name="meter" translatable="false">Meter</string>
+
+
+</resources>

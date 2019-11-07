@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Distance Converter</string>
+    <string name="meter" translatable="false">ಮೀಟರ್</string>
+    <string name="Miles" translatable="false">" ಮೈಲಿಗಳು"</string>
+    <string name="Inches" translatable="false">" ಇಂಚುಗಳು"</string>
+    <string name="Feet" translatable="false">" ಅಡಿ"</string>
+</resources>
